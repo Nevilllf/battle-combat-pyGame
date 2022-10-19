@@ -4,4 +4,5 @@
 
 
 -> use W,S,A,D keys to move the yellow spaceship and left control key to fire
+
 -> use arrow keys to move the red spaceship and right shift key to fire
